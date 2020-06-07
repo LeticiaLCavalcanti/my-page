@@ -1,4 +1,3 @@
-# my-page
 ## This project is being used to guide only my students, it is not my official page.
 
 For now, I am building this page in pure HTML and CSS with them, familiarizing them with the attributes of classes and HTML tags.
